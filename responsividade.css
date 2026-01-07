@@ -1,13 +1,10 @@
 @media screen and (max-width: 960px) {
-    body {
-        overflow-x: hidden;
-    }
 
     .about .row{
         flex-direction: column;
     }
 
-    .about .row .container-img{
+    .about .row .container-img img{
         width: 100%;
     }
     
